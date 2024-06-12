@@ -1,13 +1,13 @@
 # Overview
-- A1: Perceptron Learning with numpy
-- A2: Gradient Descent with numpy
-- A3: Universal Function Approximation with numpy
-- A4: Multi-Output Networks and Batch Processing with numpy
-- A5: Classification in Pytorch
-- A6: Convolutional Networks and Comparison to FC Networks
-- A7: Transfer learning
-- A8: Open-Set Classification
-- A9: Convolutional Auto-Encoder used for Anomaly Detection
-- A10: Predict Stock Price with LSTM RNN
-- A11: Adversarial Training
-- A12: Zero Shot Learning and Auto Labelling Pipeline
+- A1: [Perceptron Learning with numpy](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment01.ipynb)
+- A2: [Gradient Descent with numpy](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment02.ipynb)
+- A3: [Universal Function Approximation with numpy](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment03.ipynb)
+- A4: [Multi-Output Networks and Batch Processing with numpy](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment04.ipynb)
+- A5: [Classification in Pytorch](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment05.ipynb)
+- A6: [Convolutional Networks and Comparison to FC Networks](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment06.ipynb)
+- A7: [Transfer learning](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment07.ipynb)
+- A8: [Open-Set Classification](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment08.ipynb)
+- A9: [Convolutional Auto-Encoder used for Anomaly Detection](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment09.ipynb)
+- A10: [Predict Stock Price with LSTM RNN](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment10.ipynb)
+- A11: [Adversarial Training](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment11.ipynb)
+- A12: [Zero Shot Learning and Auto Labelling Pipeline](https://github.com/liamti5/Deep-Learning-UZH/blob/master/DL-Assignment12.ipynb)
