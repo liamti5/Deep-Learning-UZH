@@ -1,0 +1,13 @@
+# Overview
+- A1: Perceptron Learning with numpy
+- A2: Gradient Descent with numpy
+- A3: Universal Function Approximation with numpy
+- A4: Multi-Output Networks and Batch Processing with numpy
+- A5: Classification in Pytorch
+- A6: Convolutional Networks and Comparison to FC Networks
+- A7: Transfer learning
+- A8: Open-Set Classification
+- A9: Convolutional Auto-Encoder used for Anomaly Detection
+- A10: Predict Stock Price with LSTM RNN
+- A11: Adversarial Training
+- A12: Zero Shot Learning and Auto Labelling Pipeline
